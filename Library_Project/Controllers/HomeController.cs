@@ -15,7 +15,7 @@ namespace Library_Project.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application test page.";
 
             return View();
         }
